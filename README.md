@@ -6,6 +6,8 @@
 
 How to run a Python script in the cloud?
 
+[source](https://medium.com/@andras1000_18467/how-to-run-a-python-script-in-the-cloud-e486eef96ac3)
+
 In this tutorial, I will show how to start your own cloud computer, run a Python script and keep it running even after you have shut down your laptop and gone to sleep.
 
 I use Mac OS X, but this should work on Linux too. The cloud used is Amazon Web Services (AWS).
